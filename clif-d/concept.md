@@ -37,6 +37,29 @@ artifact: something with a beginning, a middle, and an end; something that can b
 opened again tomorrow; something that can be sent to a friend or distributed to a
 classroom.
 
+## Bounded Scope: One Stone at a Time
+
+Each lesson is deliberately narrow. Stepping Stones does not attempt to take a
+learner from zero to mastery — it advances them one meaningful step: from where
+they are now to the next foothold.
+
+This constraint is load-bearing, not a limitation. It serves three purposes:
+
+**Correctness.** A lesson with a tightly bounded scope is far easier to generate
+accurately than a comprehensive survey. The smaller the conceptual distance
+traveled, the less room for the LLM to drift, oversimplify, or introduce
+compounding errors. Narrow lessons are more likely to be right.
+
+**Bounded damage from error.** No AI-generated content is perfect. By limiting
+each lesson to a single step, Stepping Stones limits the distance a learner can
+be led astray. A wrong turn over one conceptual gap is recoverable; a wrong turn
+over an entire domain is not.
+
+**Attention economics.** A focused, completable lesson fits how people actually
+learn in the context of busy lives — in a spare ~thirty minutes, between meetings,
+the night before a seminar. A lesson scoped to one step can be finished. A
+comprehensive course cannot.
+
 ## Why Existing Tools Fall Short
 
 **Fixed-content platforms** (Brilliant, Khan Academy) invest deeply in
